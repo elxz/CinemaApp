@@ -1,0 +1,129 @@
+﻿@model Cinema.Models.ViewModels.FilmGenreCountryDirectorRestrictionListViewModel
+@{
+    ViewData["Title"] = "Главная страница";
+}
+
+@if(Model.films == null)
+{
+    <div class="exception-container">
+        <p class="exception">В данный момент фильмы отсутствуют</p>
+    </div>
+}
+else
+{
+    <div class="container">
+        <div class="movies">
+            @foreach (var film in Model.films)
+            {
+                <div class="movie">
+                    <div class="movie-cover-inner">
+                        <img src="@film.poster" class="movie-cover" />
+                        <div class="movie-cover-guidance" onclick='showModal(@Html.Raw(Json.Serialize(film)),
+                                                                            @Html.Raw(Json.Serialize(Model.directors.FirstOrDefault(x => x.director_id == film.fk_director))),
+                                                                                @Html.Raw(Json.Serialize(Model.countries)))'></div>
+                    </div>
+                    <div class="movie-info">
+                        <div class="movie-info-title">
+                            @film.film_name
+                        </div>
+                        <div class="movie-info-genre-container">
+                            @foreach (var elem in Model.filmGenres)
+                            {
+                                if (elem.fk_film == film.film_id)
+                                {
+                                    <div class="movie-info-genres">
+                                        @Model.genres[elem.fk_genre - 1].genre_name
+                                    </div>
+                                }
+                            }
+                        </div>
+                        <div class="movie-info-country-container">
+                            @foreach (var elem in Model.filmCountries)
+                            {
+                                if (elem.fk_film == film.film_id)
+                                {
+                                    <div class="movie-info-countries">
+                                        @Model.countries[elem.fk_country - 1].country_name
+                                    </div>
+                                }
+                            }
+                        </div>
+                        <div class="movie-info-restriction noselect">
+                            @Model.restrictions[film.fk_restriction - 1].restriction
+                        </div>
+                        @if (@film.rating >= 7)
+                        {
+                            <div id="rating" class="movie-info-rating-green noselect">
+                                @film.rating
+                            </div>
+
+                        }
+                        else if (@film.rating >= 5 && @film.rating < 7)
+                        {
+                            <div id="rating" class="movie-info-rating-orange noselect">
+                                @film.rating
+                            </div>
+                        }
+                        else
+                        {
+                            <div id="rating" class="movie-info-rating-red noselect">
+                                @film.rating
+                            </div>
+                        }
+                        <div class="schedule-button-container">
+                            <a class="schedule-button" href="/Schedule?id=@film.film_id">Посмотреть расписание</a>
+                        </div>
+                    </div>
+                </div>
+                //////////////////////////// Модальное окно
+                <div class="modal" id="modal"></div>
+            }
+        </div>
+    </div>
+}
+
+<script charset="utf-8">
+    const modal = document.querySelector(".modal");
+
+    async function showModal(film, director, countries) {
+        console.log(film)
+        modal.classList.add("modal-show")
+        document.body.classList.add("modal-stop-scrolling")
+
+        modal.innerHTML = `<div class="modal-window" id="modal-window">
+                            <div class="modal-movie-info">
+                                Режиссер | ${director.director_firstname + ' ' + director.director_lastname}
+                            </div>
+                            <div class="modal-movie-info">
+                                Продолжительность | ${film.duration}
+                            </div>
+                            <div class="modal-movie-info">
+                                Дата выхода | ${film.release_date.split('T')[0]}
+                            </div>
+                            <div class="modal-movie-info">
+                                Бюджет | ${film.budget}$
+                            </div>
+                            <div class="modal-movie-info">
+                                <br><br>${film.description}
+                            </div>
+                        </div>
+                    </div>`
+    }
+
+    function closeModal() {
+        modal.classList.remove("modal-show")
+        document.body.classList.remove("modal-stop-scrolling")
+    }
+
+    window.addEventListener("click", (e) => {
+        if (e.target === modal) {
+            closeModal()
+        }
+    })
+
+    window.addEventListener("keydown", (e) => {
+        if (e.keyCode === 27) {
+            closeModal();
+        }
+    })
+</script>

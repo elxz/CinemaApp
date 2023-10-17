@@ -1,0 +1,14 @@
+﻿@model Film
+@{
+    ViewData["Title"] = "Удаление фильма";
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="Film" asp-action="DeleteFilm">
+        <label class="form-label" asp-for="@Model.film_id"></label>
+        <select class="form-select" asp-for=@Model.film_id asp-items="ViewBag.Films"></select>
+        <span class="form-span" asp-validation-for="@Model.film_id"></span>
+
+        <input class="form-button" type="submit" value="Удалить фильм" />
+    </form>
+</div>

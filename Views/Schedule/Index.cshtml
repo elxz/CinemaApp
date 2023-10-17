@@ -1,0 +1,26 @@
+﻿@model Cinema.Models.ViewModels.ScheduleViewModel
+@{
+    ViewData["Title"] = "Расписание";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="schedule-container">
+        @foreach (var session in Model.sessions)
+        {
+            if (session.fk_film == @Model.schedule.id)
+            {
+                <div class="schedule-sessions">
+                    <a class="schedule-hall" href="/Hall"> Зал @Model.halls.FirstOrDefault(x => x.hall_id == session.fk_hall).hall_number</a>
+                    <a class="schedule-session" href="/Ticket?id=@session.session_id&user=@User.Identity.Name"> | @session.session_date.ToShortDateString() @session.start_time-@session.end_time</a>
+                </div>
+            }
+        }
+    </div>
+}
+
+@if (!User.Identity.IsAuthenticated){
+    <div class="exception-container">
+        <p class="exception">Для дальнейшей работы вы должны быть авторизованы!</p>
+    </div>
+}

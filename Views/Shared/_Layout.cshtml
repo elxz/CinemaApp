@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Cinema</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <a href="/" class="logo">CinemaApp</a>
+            <div class="reg-login-container">
+                @if (!User.Identity.IsAuthenticated)
+                {
+                    <a href="/Account/Register" class="login-button-main">Регистрация</a>
+                    <a href="/Account/Login" class="login-button-main">Вход</a>
+                }
+                else
+                {
+                    <form method="post" asp-controller="Account" asp-action="Logout">
+                        <input type="submit" value="Выход" class="logout"/>
+                    </form>
+                }
+            </div>
+        </div>
+    </header>
+    <div class="button-main-container">
+        <a href="/" class="button-main">ГЛАВНАЯ</a>
+        <a href="/Hall" class="button-main">ЗАЛЫ</a>
+        @if(User.Identity.IsAuthenticated && (User.IsInRole("Admin") || User.IsInRole("Cashier")))
+        {
+            <a href="/Database" class="button-main">БАЗА ДАННЫХ</a>
+        }
+    </div>
+    <main>
+        @RenderBody()
+    </main>
+</body>
+</html>

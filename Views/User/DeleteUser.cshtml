@@ -1,0 +1,14 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Удаление работника";
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="User" asp-action="DeleteUser">
+        <label class="form-label" asp-for="@Model.user_id"></label>
+        <select class="form-select" asp-for=@Model.user_id asp-items="ViewBag.Users"></select>
+        <span class="form-span" asp-validation-for="@Model.user_id"></span>
+
+        <input class="form-button" type="submit" value="Удалить кассира" />
+    </form>
+</div>

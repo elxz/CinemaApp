@@ -1,0 +1,100 @@
+﻿@model Cinema.Models.ViewModels.TicketViewModel
+@{
+    ViewData["Title"] = "Покупка билета";
+}
+
+<div class="ticket-container">
+    <div class="ticket-screen">
+        <p class="screen noselect">ЭКРАН</p>
+    </div>
+    <div class="ticket-places">
+        @for (int rowIndex = 0; rowIndex < Model.hall.count_of_rows; rowIndex++)
+        {
+            <div class="ticket-row">
+                <div class="ticket-row-number noselect">
+                    <p class="ticket-row-nubmer">@(rowIndex + 1)</p>
+                </div>
+                @for (int placeIndex = 0; placeIndex < Model.hall.places_per_row; placeIndex++)
+                {
+                    if (Model.sessionRowPlaces[(rowIndex + placeIndex + 1 + ((Model.hall.places_per_row - 1) * rowIndex)) - 1].status == "Available")
+                    {
+                        <div id="rowPlace-@(placeIndex + (rowIndex * Model.hall.places_per_row))" class="ticket-place ticket-place-green" onclick='choosePlace(@Html.Raw(Json.Serialize
+                                                                                            ((Model.sessionRowPlaces.FirstOrDefault
+                                                                                                (x => x.place_ == placeIndex + 1 && x.row_ == rowIndex + 1)))), 
+                                                                                                    @(placeIndex + (rowIndex * Model.hall.count_of_rows)))'>
+                            <p class="ticket-place-nubmer noselect">@(placeIndex + 1)</p>
+                        </div>
+                    }
+                    else if (Model.sessionRowPlaces[(rowIndex + placeIndex + 1 + ((Model.hall.places_per_row - 1) * rowIndex)) - 1].status == "Waiting")
+                    {
+                        <div id="rowPlace-@(placeIndex + (rowIndex * Model.hall.places_per_row))" class="ticket-place ticket-place-gray" onclick='choosePlace(@Html.Raw(Json.Serialize
+                                                                                            ((Model.sessionRowPlaces.FirstOrDefault
+                                                                                                (x => x.place_ == placeIndex + 1 && x.row_ == rowIndex + 1)))),
+                                                                                                    @(placeIndex + (rowIndex * Model.hall.count_of_rows)))'>
+                            <p class="ticket-place-nubmer noselect">@(placeIndex + 1)</p>
+                        </div>
+                    }
+                    else if (Model.sessionRowPlaces[(rowIndex + placeIndex + 1 + ((Model.hall.places_per_row - 1) * rowIndex)) - 1].status == "Sold")
+                    {
+                        <div id="rowPlace-@(placeIndex + (rowIndex * Model.hall.places_per_row))" class="ticket-place ticket-place-red">
+                            <p class="ticket-place-nubmer noselect">@(placeIndex + 1)</p>
+                        </div>
+                    }
+            }
+            </div>
+        }
+        <div class="ticket-button-container">
+            <p class="ticket-place-price noselect">Стоимость билета - @Model.pricing₽</p>
+            <a class="ticket-button" href='/Payment?id=@Model.session.session_id'>Перейти к оплате</a>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/jQuery.js"></script>
+
+<script charset="utf-8">
+    function choosePlace(sessionRowPlace, id) {
+        var rowPlace = document.getElementById("rowPlace-" + id)
+
+        if (rowPlace.classList.contains("ticket-place-green")) {
+            rowPlace.classList.remove("ticket-place-green")
+            rowPlace.classList.add("ticket-place-gray")
+            
+            $.ajax({
+                url: 'Ticket/changeStatusToWaiting',
+                data: { id: sessionRowPlace.srp_id },
+                type: 'POST',
+                success: function (valid) {
+                    if(valid){
+                        console.log("Место выбрано")
+                    }
+                    else{
+                        alert("Место уже занято")
+                        rowPlace.classList.remove("ticket-place-green")
+                        rowPlace.classList.add("ticket-place-red")
+                        console.log("Ошибка выбора места")
+                    }
+                }
+            });
+        }
+
+        else if (rowPlace.classList.contains("ticket-place-gray")) {
+            rowPlace.classList.remove("ticket-place-gray")
+            rowPlace.classList.add("ticket-place-green")
+            
+            $.ajax({
+                url: 'Ticket/changeStatusToAvailable',
+                data: { id: sessionRowPlace.srp_id },
+                type: 'POST',
+                success: function (valid) {
+                    if (valid) {
+                        console.log("Выбор места отменен")
+                    }
+                    else{
+                        console.log("Ошибка отмены")
+                    }
+                }
+            });
+        }
+    }
+</script>

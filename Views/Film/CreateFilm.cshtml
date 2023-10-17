@@ -1,0 +1,70 @@
+﻿@model Cinema.Models.ViewModels.FilmGenreCountryDirectorRestrictionCheckBoxViewModel
+@{
+    ViewData["Title"] = "Добавление фильма";
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="Film" asp-action="CreateFilm">
+        <label class="form-label" asp-for="@Model.film.film_name"></label>
+        <input class="form-input" asp-for="@Model.film.film_name" />
+        <span class="form-span" asp-validation-for="@Model.film.film_name"></span>
+
+        <label class="form-label" asp-for="@Model.film.description"></label>
+        <input class="form-input" asp-for="@Model.film.description" />
+        <span class="form-span" asp-validation-for="@Model.film.description"></span>
+
+        <label class="form-label" asp-for="@Model.film.release_date"></label>
+        <input class="form-input" asp-for="@Model.film.release_date" />
+        <span class="form-span" asp-validation-for="@Model.film.release_date"></span>
+
+        <label class="form-label" asp-for="@Model.film.duration"></label>
+        <input class="form-input" asp-for="@Model.film.duration" />
+        <span class="form-span" asp-validation-for="@Model.film.duration"></span>
+
+        <label class="form-label" asp-for="@Model.film.rating"></label>
+        <input class="form-input" asp-for="@Model.film.rating" />
+        <span class="form-span" asp-validation-for="@Model.film.rating"></span>
+
+        <label class="form-label" asp-for="@Model.film.budget"></label>
+        <input class="form-input" asp-for="@Model.film.budget" />
+        <span class="form-span" asp-validation-for="@Model.film.budget"></span>
+
+        <label class="form-label" asp-for="@Model.film.poster"></label>
+        <input class="form-input" asp-for="@Model.film.poster" />
+        <span class="form-span" asp-validation-for="@Model.film.poster"></span>
+
+        <label class="form-label" asp-for="@Model.restriction.restriction_id"></label>
+        <select class="form-select" asp-for=@Model.film.fk_restriction asp-items="ViewBag.Restrictions"></select>
+        <span class="form-span" asp-validation-for="@Model.restriction.restriction_id"></span>
+
+        <label class="form-label" asp-for="@Model.genre.genre_id"></label>
+        @for (int index = 0; index < Model.genreCheckBoxViewModel.Count(); index++)
+        {
+            <div class="form-checkbox-container">
+                <input class="form-checkbox-input" type="checkbox" asp-for="@Model.genreCheckBoxViewModel[index].IsChecked"/>
+                <label class="form-checkbox-label" asp-for="@Model.genreCheckBoxViewModel[index].IsChecked">@Model.genreCheckBoxViewModel[index].Name</label>
+                <input class="form-checkbox-input"  type="hidden" asp-for="@Model.genreCheckBoxViewModel[index].Id" />
+                <input class="form-checkbox-input" type="hidden" asp-for="@Model.genreCheckBoxViewModel[index].Name"/>
+            </div>
+        }
+        <span class="form-span" asp-validation-for="@Model.genre.genre_id"></span>
+
+        <label class="form-label" asp-for="@Model.country.country_id"></label>
+        @for (int index = 0; index < Model.countryCheckBoxViewModel.Count(); index++)
+        {
+            <div class="form-checkbox-container">
+                <input class="form-checkbox-input" type="checkbox" asp-for="@Model.countryCheckBoxViewModel[index].IsChecked" />
+                <label class="form-checkbox-label" asp-for="@Model.countryCheckBoxViewModel[index].IsChecked">@Model.countryCheckBoxViewModel[index].Name</label>
+                <input class="form-checkbox-input" type="hidden" asp-for="@Model.countryCheckBoxViewModel[index].Id" />
+                <input class="form-checkbox-input" type="hidden" asp-for="@Model.countryCheckBoxViewModel[index].Name" />
+            </div>
+        }
+        <span class="form-span" asp-validation-for="@Model.country.country_id"></span>
+
+        <label class="form-label" asp-for="@Model.director.director_id"></label>
+        <select class="form-select" asp-for=@Model.film.fk_director asp-items="ViewBag.Directors"></select>
+        <span class="form-span" asp-validation-for="@Model.director.director_id"></span>
+
+        <input class="form-button" type="submit" value="Добавить фильм" />
+    </form>
+</div>

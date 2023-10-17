@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "База данных";
+}
+
+<div class="button-main-edit">
+    <a href="/Film" class="button-main">БД Фильмы</a>
+    <a href="/Director" class="button-main">БД Режиссеры</a>
+    <a href="/Session" class="button-main">БД Сеансы</a>
+    @if(User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+    {
+        <a href="/User" class="button-main">БД Пользователи</a>
+    }
+</div>

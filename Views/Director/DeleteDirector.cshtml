@@ -1,0 +1,14 @@
+﻿@model Director
+@{
+    ViewData["Title"] = "Удаление режиссера";
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="Director" asp-action="DeleteDirector">
+        <label class="form-label" asp-for="@Model.director_id"></label>
+        <select class="form-select" asp-for=@Model.director_id asp-items="ViewBag.Directors"></select>
+        <span class="form-span" asp-validation-for="@Model.director_id"></span>
+
+        <input class="form-button" type="submit" value="Удалить режиссера" />
+    </form>
+</div>

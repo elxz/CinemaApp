@@ -1,0 +1,47 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Добавление работника";
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="User" asp-action="CreateUser">
+        <label class="form-label" asp-for="user_firstname"></label>
+        <input class="form-input" asp-for="user_firstname" />
+        <span class="form-span" asp-validation-for="user_firstname"></span>
+
+        <label class="form-label" asp-for="user_lastname"></label>
+        <input class="form-input" asp-for="user_lastname" />
+        <span class="form-span" asp-validation-for="user_lastname"></span>
+
+        <label class="form-label" asp-for="user_login"></label>
+        <input class="form-input" asp-for="user_login" />
+        <span class="form-span" asp-validation-for="user_login"></span>
+
+        <label class="form-label" asp-for="user_password"></label>
+        <input class="form-input" asp-for="user_password" />
+        <span class="form-span" asp-validation-for="user_password"></span>
+
+        <label class="form-label" asp-for="user_phone_number"></label>
+        <input class="form-input" asp-for="user_phone_number" />
+        <span class="form-span" asp-validation-for="user_phone_number"></span>
+
+        <label class="form-label" asp-for="user_date_of_birth"></label>
+        <input class="form-input" asp-for="user_date_of_birth" />
+        <span class="form-span" asp-validation-for="user_date_of_birth"></span>
+
+        <label class="form-label" asp-for="role_"></label>
+        <select class="form-select" asp-for="role_">
+            <option value="Cashier">Кассир</option>
+        </select>
+        <span class="form-span" asp-validation-for="role_"></span>
+
+        <input class="form-button" type="submit" value="Добавить кассира" />
+    </form>
+
+    @if (ViewBag.CheckUsersDelete != null)
+    {
+        <script charset="utf-8" type="text/javascript">
+            alert("@ViewBag.CheckUsersDelete")
+        </script>
+    }
+</div>

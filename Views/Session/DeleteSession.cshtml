@@ -1,0 +1,14 @@
+﻿@model Session
+@{
+    ViewData["Title"] = "Удаление сеанса";
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="Session" asp-action="DeleteSession">
+        <label class="form-label" asp-for="@Model.session_id"></label>
+        <select class="form-select" asp-for=@Model.session_id asp-items="ViewBag.Sessions"></select>
+        <span class="form-span" asp-validation-for="@Model.session_id"></span>
+
+        <input class="form-button" type="submit" value="Удалить сеанс" />
+    </form>
+</div>

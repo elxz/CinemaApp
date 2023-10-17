@@ -1,0 +1,45 @@
+﻿@model Cinema.Models.ViewModels.RegisterViewModel
+@{
+
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="Account" asp-action="Register">
+        <label class="form-label" asp-for="user_firstname"></label>
+        <input class="form-input" asp-for="user_firstname" />
+        <span class="form-span" asp-validation-for="user_firstname"></span>
+
+        <label class="form-label" asp-for="user_lastname"></label>
+        <input class="form-input" asp-for="user_lastname" />
+        <span class="form-span" asp-validation-for="user_lastname"></span>
+
+        <label class="form-label" asp-for="user_login"></label>
+        <input class="form-input" asp-for="user_login" />
+        <span class="form-span" asp-validation-for="user_login"></span>
+
+        <label class="form-label" asp-for="user_password"></label>
+        <input class="form-input" asp-for="user_password" />
+        <span class="form-span" asp-validation-for="user_password"></span>
+
+        <label class="form-label" asp-for="passwordConfirm"></label>
+        <input class="form-input" asp-for="passwordConfirm" />
+        <span class="form-span" class="form-span" asp-validation-for="passwordConfirm"></span>
+
+        <label class="form-label" asp-for="user_phone_number"></label>
+        <input class="form-input" type="tel" minlength="12" maxlength="12" placeholder="+7________" asp-for="user_phone_number" />
+        <span class="form-span" asp-validation-for="user_phone_number"></span>
+
+        <label class="form-label" asp-for="user_date_of_birth"></label>
+        <input class="form-input" asp-for="user_date_of_birth" />
+        <span class="form-span" asp-validation-for="user_date_of_birth"></span>
+
+        <input class="form-button" type="submit" onclick="checkRegister()" value="Зарегистрироваться" />
+    </form>
+
+    @if(ViewBag.Message != null)
+    {
+        <script charset="utf-8" type="text/javascript">
+                alert("@ViewBag.Message")
+        </script>
+    }
+</div>

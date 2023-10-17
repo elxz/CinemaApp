@@ -1,0 +1,76 @@
+﻿@model Cinema.Models.ViewModels.PaymentViewModel
+@{
+    ViewData["Title"] = "Оплата";
+}
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="payment-container">
+        <div class="payment-film-container noselect">
+            Фильм
+            <div class="payment-film noselect">
+                @Model.film.film_name
+            </div>
+        </div>
+        <div class="payment-session-container noselect">
+            Сеанс
+            <div class="payment-session noselect">
+                @Model.session.session_date.ToShortDateString() | @Model.session.start_time - @Model.session.end_time
+            </div>
+        </div>
+        <div class="payment-hall-container noselect">
+            Зал
+            <div class="payment-hall noselect">
+                @Model.hall.hall_number | @Model.hall.screen_type
+            </div>
+        </div>
+        <div class="payment-places-container noselect">
+            Места
+            <div class="payment-places noselect">
+                @foreach (var place in Model.sessionRowPlaces)
+                {
+                    <div class="payment-place noselect">
+                        Ряд: @place.row_ | Место: @place.place_
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="payment-cost-container noselect">
+            Финальная стоимость
+            <div class="payment-cost noselect">
+                @Model.finale_price₽
+            </div>
+        </div>
+        <div class="payment-button-container">
+            <a href="Home" class="payment-button" type="button" onclick='buyTickets(@Html.Raw(Json.Serialize(Model.sessionRowPlaces)), @Model.ticketsCount)'>ОПЛАТИТЬ</a>
+        </div>
+    </div>
+}
+
+<script src="~/js/jQuery.js"></script>
+<script charset="utf-8">
+    function buyTickets(places, count) {
+        console.log(places[0])
+
+        var ids = []
+        for(let index = 0; index < count; index++){
+            ids.push(places[index].srp_id)
+        }
+
+        $.ajax({
+            type: 'POST',
+            data: { id: ids },
+            url: 'Payment/changeStatusToSold',
+            traditional: true,
+            success: function (valid) {
+                if (valid) {
+                    console.log("Место куплено")
+                }
+                else {
+                    console.log("Ошибка покупки")
+                }
+            }
+        })
+    }
+</script>

@@ -1,0 +1,18 @@
+﻿@model Director
+@{
+    ViewData["Title"] = "Добавление режиссера";
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="Director" asp-action="CreateDirector">
+        <label class="form-label" asp-for="@Model.director_firstname"></label>
+        <input class="form-input" asp-for="@Model.director_firstname" />
+        <span class="form-span" asp-validation-for="@Model.director_firstname"></span>
+
+        <label class="form-label" asp-for="@Model.director_lastname"></label>
+        <input class="form-input" asp-for="@Model.director_lastname" />
+        <span class="form-span" asp-validation-for="@Model.director_lastname"></span>
+
+        <input class="form-button" type="submit" value="Добавить режиссера" />
+    </form>
+</div>

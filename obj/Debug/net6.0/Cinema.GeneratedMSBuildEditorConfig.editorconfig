@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cinema
+build_property.RootNamespace = Cinema
+build_property.ProjectDir = C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Database/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YWJhc2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Director/CreateDirector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcQ3JlYXRlRGlyZWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Director/DeleteDirector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcRGVsZXRlRGlyZWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Director/GetDirectors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcR2V0RGlyZWN0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Director/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Film/CreateFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxDcmVhdGVGaWxtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Film/DeleteFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxEZWxldGVGaWxtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Film/GetFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxHZXRGaWxtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Film/GetFilms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxHZXRGaWxtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Film/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Hall/CreateHall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbFxDcmVhdGVIYWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Hall/DeleteHall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbFxEZWxldGVIYWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Hall/GetHall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbFxHZXRIYWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Hall/GetHalls.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbFxHZXRIYWxscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Hall/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Payment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Schedule/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Session/CreateSession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxDcmVhdGVTZXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Session/DeleteSession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxEZWxldGVTZXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Session/GetSession.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxHZXRTZXNzaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Session/GetSessions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxHZXRTZXNzaW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Session/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Ticket/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/User/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/User/DeleteUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/User/GetUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxHZXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/User/GetUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxHZXRVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dansm/OneDrive/Рабочий стол/Курсовая/CinemaWork/Cinema/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2pfaoicsxw

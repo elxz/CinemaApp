@@ -1,0 +1,487 @@
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\appsettings.Development.json
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\appsettings.json
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Cinema.staticwebassets.runtime.json
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Cinema.exe
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Cinema.deps.json
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Cinema.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Cinema.pdb
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cache
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cs
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.Cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinema.props
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinema.props
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinema.props
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\staticwebassets.build.json
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\staticwebassets.development.json
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.styles.css
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.bundle.scp.css
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.dll
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.pdb
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\ref\Cinema.dll
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Azure.Core.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Azure.Identity.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Humanizer.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Npgsql.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.CodeDom.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Text.Json.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Folder\Study\Cinema\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Folder\Study\Cinema\Cinema\obj\Debug\net6.0\Cinema.csproj.CopyComplete
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\appsettings.Development.json
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\appsettings.json
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Cinema.staticwebassets.runtime.json
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Cinema.exe
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Cinema.deps.json
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Cinema.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Cinema.pdb
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Azure.Core.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Azure.Identity.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Humanizer.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Npgsql.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.CodeDom.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Text.Json.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Folder\Study\CinemaWork-main\Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cache
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cs
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.Cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinema.props
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinema.props
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinema.props
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\staticwebassets.build.json
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\staticwebassets.development.json
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.styles.css
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.bundle.scp.css
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.csproj.CopyComplete
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.dll
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.pdb
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+D:\Folder\Study\CinemaWork-main\Cinema\obj\Debug\net6.0\ref\Cinema.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\appsettings.Development.json
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\appsettings.json
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.staticwebassets.runtime.json
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.exe
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.deps.json
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.pdb
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Azure.Core.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Azure.Identity.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Humanizer.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Npgsql.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.CodeDom.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Text.Json.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cache
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cs
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.Cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinema.props
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinema.props
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinema.props
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets.build.json
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets.development.json
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.styles.css
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.bundle.scp.css
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.csproj.CopyComplete
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.dll
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.pdb
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+D:\Folder\Study\CinemaWork\Cinema\obj\Debug\net6.0\ref\Cinema.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Folder\Study\CinemaWork\Cinema\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.MvcApplicationPartsAssemblyInfo.cache
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cache
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cs
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.pdb
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\appsettings.Development.json
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\appsettings.json
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Cinema.staticwebassets.runtime.json
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Cinema.exe
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Cinema.deps.json
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Cinema.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Cinema.pdb
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Azure.Core.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Azure.Identity.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Humanizer.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Npgsql.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.CodeDom.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Text.Json.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.Cinema.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinema.props
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinema.props
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinema.props
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\staticwebassets.build.json
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\staticwebassets.development.json
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.styles.css
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.bundle.scp.css
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.csproj.CopyComplete
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+D:\Folder\Study\CinemaWork2-dev\Cinema\obj\Debug\net6.0\ref\Cinema.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\appsettings.json
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.staticwebassets.runtime.json
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.exe
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.deps.json
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.runtimeconfig.json
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Cinema.pdb
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Npgsql.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.csproj.AssemblyReference.cache
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.AssemblyInfo.cs
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cache
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.RazorAssemblyInfo.cs
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.Cinema.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.build.Cinema.props
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cinema.props
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cinema.props
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\scopedcss\bundle\Cinema.styles.css
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\scopedcss\projectbundle\Cinema.bundle.scp.css
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.csproj.CopyComplete
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\refint\Cinema.dll
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.pdb
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
+C:\Users\dansm\OneDrive\Рабочий стол\Курсовая\CinemaWork\Cinema\obj\Debug\net6.0\ref\Cinema.dll

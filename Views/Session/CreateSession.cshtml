@@ -1,0 +1,26 @@
+﻿@model Cinema.Models.ViewModels.SessionFilmHallViewModel
+@{
+    ViewData["Title"] = "Добавление сеанса";
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="Session" asp-action="CreateSession">
+        <label class="form-label" asp-for="@Model.film.film_id"></label>
+        <select class ="form-select" asp-for=@Model.session.fk_film asp-items="ViewBag.Films"></select>
+        <span class="form-span" asp-validation-for="@Model.film.film_id"></span>
+
+        <label class="form-label" asp-for="@Model.hall.hall_id"></label>
+        <select class="form-select" asp-for=@Model.session.fk_hall asp-items="ViewBag.Halls"></select>
+        <span class="form-span" asp-validation-for="@Model.hall.hall_id"></span>
+
+        <label class="form-label" asp-for="@Model.session.session_date"></label>
+        <input class="form-input" asp-for="@Model.session.session_date" />
+        <span class="form-span" asp-validation-for="@Model.session.session_date"></span>
+
+        <label class="form-label" asp-for="@Model.session.start_time"></label>
+        <input class="form-input" asp-for="@Model.session.start_time" />
+        <span class="form-span" asp-validation-for="@Model.session.start_time"></span>
+
+        <input class ="form-button" type="submit" value="Добавить сеанс" />
+    </form>
+</div>

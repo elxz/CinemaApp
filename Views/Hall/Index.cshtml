@@ -1,0 +1,20 @@
+﻿@model List<Hall>
+
+@{
+    ViewData["Title"] = "Залы";
+}
+
+<div class="halls-container">
+    @for (int index = 0; index < Model.Count; index++)
+    {
+        <div class="hall-container">
+            <h2 class="hall">Зал @Model[index].hall_number</h2>
+            <p class="hall-description" id="hall-description-@index+1">
+                Тип экрана: @Model[index].screen_type<br><br>
+                Общее кол-во мест: @(Model[index].count_of_rows * Model[index].places_per_row)<br><br>
+                @Model[index].description
+            </p>
+            <img class="hall-image" src="@Model[index].hall_image"/>
+        </div>
+    }
+</div>

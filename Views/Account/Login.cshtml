@@ -1,0 +1,18 @@
+﻿@model Cinema.Models.ViewModels.LoginViewModel
+@{
+
+}
+
+<div class="form-container">
+    <form method="post" class="form" asp-controller="Account" asp-action="Login">
+        <label class="form-label" asp-for="login"></label>
+        <input class="form-input" asp-for="login" />
+        <span class="form-span" asp-validation-for="login"></span>
+
+        <label class="form-label" asp-for="password"></label>
+        <input class="form-input" type="password" asp-for="password" />
+        <span class="form-span" asp-validation-for="password"></span>
+
+        <input class="form-button" type="submit" value="Войти" />
+    </form>
+</div>
